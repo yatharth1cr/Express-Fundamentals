@@ -4,5 +4,5 @@
 ###  2. Express basics
 - Explain with code
 ### 3. Middlewares in express
-- Explain with code(Middlewares)
+- Explain with code(**Middlewares**)
 - Explain with code(Built in Middlewares)
