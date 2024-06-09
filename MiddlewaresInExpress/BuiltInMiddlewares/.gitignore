@@ -1,2 +1,8 @@
-node_modules 
-public
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore all HTML files
+*.html
+
+# Ignore all CSS files in the public/stylesheets directory
+public/stylesheets/*.css
