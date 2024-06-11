@@ -1,8 +1,8 @@
 # Express Fundamentals
 ### 1. NPM & package.json
-- ExplainWithCode()
+- ExplainWithCode(**package.json**)
 ###  2. Express basics
-- ExplainWithCode()
+- ExplainWithCode(**Express basics**)
 ### 3. Middlewares in Express
 - ExplainWithCode (**Middlewares**)
 - ExplainWithCode (**Built in Middlewares**)
