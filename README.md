@@ -11,3 +11,6 @@
 - ExplainWithCode(**BasicRoutes**)
 ### 5. Error Handler middlewares
 - ExplainWithCode(**Error Handler middlewares**)
+### 6.
+### 7.
+### 8.
