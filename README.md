@@ -12,5 +12,8 @@
 ### 5. Error Handler middlewares
 - ExplainWithCode(**Error Handler middlewares**)
 ### 6. Assignment I
+- ExplainWithCode
 ### 7. Assignment II
+- ExplainWithCode
 ### 8. Assignment III
+- ExplainWithCode
