@@ -16,7 +16,6 @@ app.get("/", (req, res) => {
 app.get("/users", (req, res) => {
   res.send(`<h1>Users :=) Hello Users!</h1>`);
 });
-// ----------/----------
 
 // rendered page routed
 app.get("/home", (req, res) => {
